@@ -31,6 +31,7 @@ num_test_triples: 26937
 Best epoch : 90000   
 Loss : 0.1378   
 
+![loss](/img/rgcn_loss_sec_major_rec.png)   
 
 **Valid MRR(filtered):0.747374   
 Test MRR (filtered): 0.810421   
