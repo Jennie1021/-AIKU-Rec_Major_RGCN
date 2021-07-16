@@ -27,16 +27,18 @@ num_valid_triples: 7409
 num_test_triples: 26937  
 
 ## Result
+**Valid MRR(filtered):0.747374   
+Test MRR (filtered): 0.810421   
+Hits (filtered) @ 1: 0.687392   
+Hits (filtered) @ 3: 0.928158   
+**Hits (filtered) @ 10: 0.984811****   
+
+
+
 
 Best epoch : 90000   
 Loss : 0.1378   
 
 ![loss](/img/rgcn_loss_sec_major_rec.png)   
-
-**Valid MRR(filtered):0.747374   
-Test MRR (filtered): 0.810421   
-Hits (filtered) @ 1: 0.687392   
-Hits (filtered) @ 3: 0.928158   
-**Hits (filtered) @ 10: 0.984811****
 
 
