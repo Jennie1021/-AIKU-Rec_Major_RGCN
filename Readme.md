@@ -28,17 +28,14 @@ num_test_triples: 26937
 
 ## Result
 
-Best epoch : 90000
-Loss : 0.1378
+Best epoch : 90000   
+Loss : 0.1378   
 
 
-
-
-
-**Valid MRR(filtered):0.747374
-Test MRR (filtered): 0.810421
-Hits (filtered) @ 1: 0.687392
-Hits (filtered) @ 3: 0.928158
+**Valid MRR(filtered):0.747374   
+Test MRR (filtered): 0.810421   
+Hits (filtered) @ 1: 0.687392   
+Hits (filtered) @ 3: 0.928158   
 **Hits (filtered) @ 10: 0.984811****
 
 
