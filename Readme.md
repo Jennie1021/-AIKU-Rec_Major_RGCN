@@ -33,12 +33,7 @@ Hits (filtered) @ 1: 0.687392
 Hits (filtered) @ 3: 0.928158   
 **Hits (filtered) @ 10: 0.984811****   
 
-
-
-
 Best epoch : 90000   
 Loss : 0.1378   
-
-![loss](/img/rgcn_loss_sec_major_rec.png)   
 
 
