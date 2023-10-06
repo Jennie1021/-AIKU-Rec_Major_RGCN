@@ -2,7 +2,7 @@
 
 * A python implementation of major recommender system using R-GCN
 
-## RGCN implementation(Terminal)
+## RGCN implementation
 ```
 python3 utils.py
 python3 model.py
